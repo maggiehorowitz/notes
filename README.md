@@ -6,7 +6,7 @@ A new Flutter project.
 
 clone this repo 
 
-run using 
-'''
+run using:
+
 flutter run
-'''
+
